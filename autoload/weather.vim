@@ -1,3 +1,5 @@
+scriptencoding cp932
+
 let s:title = '------------------------  WEATHER-VIM  ------------------------'
 let s:toAll = '>>‘S‘'
 let s:locations = []

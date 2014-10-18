@@ -1,3 +1,5 @@
+scriptencoding cp932
+
 if version < 700
   syntax clear
 elseif exists("b:current_syntax")
